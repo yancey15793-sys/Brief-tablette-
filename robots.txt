@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Briefeed est un lecteur RSS personnel, mais public.
+# Indexation autorisée.

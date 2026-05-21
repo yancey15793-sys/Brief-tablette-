@@ -1,0 +1,28 @@
+{
+  "name": "Briefeed — Édition Tablette",
+  "short_name": "Briefeed",
+  "description": "Lecteur de flux RSS éditorial pour tablette horizontale.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07090b",
+  "theme_color": "#07090b",
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["news", "magazines"],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

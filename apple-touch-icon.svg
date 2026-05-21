@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="40" fill="#07090b"/>
+  <text x="90" y="128" font-family="Georgia, 'Fraunces', serif" font-size="120" font-weight="500" text-anchor="middle" fill="#FFDB03" letter-spacing="-4">B</text>
+  <circle cx="140" cy="40" r="8" fill="#EB001B"/>
+  <text x="90" y="158" font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="12" font-weight="600" text-anchor="middle" fill="#86868B" letter-spacing="3">BRIEFEED</text>
+</svg>

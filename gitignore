@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-*
+
+# Logs et caches
+*.log
+npm-debug.log*
+.cache/
+.parcel-cache/
+.tmp/
+.temp/
+
+# Node (si jamais utilisé plus tard)
+node_modules/
+package-lock.json
+yarn.lock
+.npm/
+
+# Fichiers de travail
+*.bak
+*.backup
+*.old
+draft/
+WIP/
+
+# Secrets et config locale
+.env
+.env.local
+.env.*.local
+config.local.*
